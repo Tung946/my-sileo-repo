@@ -1,0 +1,11 @@
+# Bỏ qua file hệ thống Windows
+AppData/
+NTUSER.DAT*
+*.log
+*.ini
+*.tmp
+*.swp
+*.bak
+.vscode/
+.gradle/
+.history
